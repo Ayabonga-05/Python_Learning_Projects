@@ -1,10 +1,10 @@
-# Software Engineering Portfolio
+# Python Learning Projects
 
 **Ayabonga Mthimde**
 
 ---
 
-This repository contains my software engineering projects — built to develop real, practical programming skills. All projects are written in Python. No frameworks, no shortcuts — just clean fundamentals.
+Hands-on Python projects built during my gap year to develop practical programming, data analysis, and simulation skills. All code uses clean fundamentals with no external frameworks.
 
 ---
 
@@ -12,19 +12,22 @@ This repository contains my software engineering projects — built to develop r
 
 | # | Project | Description | Key Skills |
 |---|---------|-------------|------------|
-| 01 | [Unit Converter](./projects/01-unit-converter/) | Converts km/miles, °C/°F, kg/lbs | Functions, input, f-strings |
-| 02 | [Grade Calculator](./projects/02-grade-calculator/) | Calculates student averages + letter grades | Lists, validation, zip() |
+| 01 | [Unit Converter](./projects/01-unit-converter/) | Converts km/miles, °C/°F, kg/lbs | Functions, user input, f-strings |
+| 02 | [Grade Calculator](./projects/02-grade-calculator/) | Calculates student averages + letter grades | Lists, validation, data processing |
+| 03 | [South Africa Energy Usage Analysis](./South-Africa-Energy-Usage-Analysis/) | Exploratory data analysis on real energy consumption data | Pandas, Matplotlib/Seaborn, Jupyter notebooks |
 
-*More projects being added regularly.*
-
+*More projects and CS50P problem sets being added regularly.*
 
 ---
 
-## Tech Used
+## Learning Path & Tech
 
-- **Language:** Python 3
-- **Platform:** Google Colab (run in browser — no install needed)
-- **Tools:** Git, GitHub
+- **Python Fundamentals**: CS50P (Harvard), core programming concepts
+- **Data Science Libraries**: Pandas, Matplotlib, Seaborn, Scikit-Learn (basics)
+- **Engineering & Simulation**: MATLAB & Simulink (MathWorks Onramps)
+
+**Platform**: Google Colab (run everything in browser — no installation needed)  
+**Tools**: Git, GitHub
 
 ---
 
@@ -41,18 +44,21 @@ This repository contains my software engineering projects — built to develop r
 
 | Certificate | Issuer | Date |
 |---|---|---|
+| CS50P | Harvard | Ongoing |
 | Python (5-Star) | Kaggle | Nov 2025 |
 | Intro to Machine Learning | Kaggle | Mar 2026 |
 | Intro to Python | DataCamp | Jun 2026 |
-| MATLAB Onramp | MathWorks | Feb 2025 |
+| MATLAB Onramp + Desktop Tools | MathWorks | 2025 |
 | Simulink Onramp | MathWorks | Oct 2025 |
 
 ---
 
 ## About Me
 
-I'm a self-directed learner and aspiring software engineer. During my gap year I've been building projects, earning certifications, and working toward a career in tech.
+I'm a self-directed learner focusing on Python, data analysis, report writing, and simulations while preparing for BSc Computer Science (targeting 2027). 
 
 ---
 
-*More projects being added regularly as I progress through my learning roadmap.*
+*Projects are updated regularly as I progress through my learning roadmap. Feedback is welcome!*
+
+[LinkedIn](https://www.linkedin.com/in/ayabonga-mthimde-abbb85350) • ayamthimde005@gmail.com
