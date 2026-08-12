@@ -20,4 +20,4 @@ calculates their average, and prints a full report with letter grade.
 
 ## How to run
 
-*(Colab link coming once project is complete)*
+*https://colab.research.google.com/github/Ayabonga-05/Software-Engineering-Portfolio/blob/main/Student_Grade_Calculator.ipynb*
